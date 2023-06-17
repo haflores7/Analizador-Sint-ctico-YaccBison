@@ -1,0 +1,6 @@
+int main  (  {
+    int operacion ;
+    operacion = 4.2 * ( 3 + 4.63 ) - log2 ( 8 ) + cos ( 55 ) ;
+    cout << operacion 
+    return 0 ;
+}
